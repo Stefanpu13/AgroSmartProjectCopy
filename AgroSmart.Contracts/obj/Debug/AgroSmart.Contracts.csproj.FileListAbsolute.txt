@@ -1,0 +1,64 @@
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.Contracts\bin\Debug\AgroSmart.Contracts.dll.config
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.Contracts\bin\Debug\AgroSmart.Contracts.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.Contracts\bin\Debug\AgroSmart.Contracts.pdb
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.Contracts\bin\Debug\AgroSmart.Models.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.Contracts\bin\Debug\EntityFramework.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.Contracts\bin\Debug\AgroSmart.Models.pdb
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.Contracts\bin\Debug\EntityFramework.xml
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.Contracts\obj\Debug\AgroSmart.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.Contracts\obj\Debug\AgroSmart.Contracts.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.Contracts\obj\Debug\AgroSmart.Contracts.pdb
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.Contracts\bin\Debug\AgroSmart.Contracts.dll.config
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.Contracts\bin\Debug\AgroSmart.Contracts.dll
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.Contracts\bin\Debug\AgroSmart.Contracts.pdb
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.Contracts\bin\Debug\AgroSmart.Models.dll
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.Contracts\bin\Debug\EntityFramework.dll
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.Contracts\bin\Debug\AgroSmart.Models.pdb
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.Contracts\bin\Debug\EntityFramework.xml
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.Contracts\obj\Debug\AgroSmart.Contracts.csprojResolveAssemblyReference.cache
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.Contracts\obj\Debug\AgroSmart.Contracts.dll
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.Contracts\obj\Debug\AgroSmart.Contracts.pdb
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.Contracts\bin\Debug\AgroSmart.Contracts.dll.config
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.Contracts\bin\Debug\AgroSmart.Contracts.dll
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.Contracts\bin\Debug\AgroSmart.Contracts.pdb
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.Contracts\bin\Debug\AgroSmart.Models.dll
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.Contracts\bin\Debug\EntityFramework.dll
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.Contracts\bin\Debug\AgroSmart.Models.pdb
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.Contracts\bin\Debug\EntityFramework.xml
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.Contracts\obj\Debug\AgroSmart.Contracts.csprojResolveAssemblyReference.cache
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.Contracts\obj\Debug\AgroSmart.Contracts.dll
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.Contracts\obj\Debug\AgroSmart.Contracts.pdb
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Contracts\bin\Debug\AgroSmart.Contracts.dll.config
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Contracts\bin\Debug\AgroSmart.Contracts.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Contracts\bin\Debug\AgroSmart.Contracts.pdb
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Contracts\bin\Debug\AgroSmart.Models.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Contracts\bin\Debug\EntityFramework.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Contracts\bin\Debug\AgroSmart.Models.pdb
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Contracts\bin\Debug\EntityFramework.xml
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Contracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Contracts\obj\Debug\AgroSmart.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Contracts\obj\Debug\AgroSmart.Contracts.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Contracts\obj\Debug\AgroSmart.Contracts.pdb

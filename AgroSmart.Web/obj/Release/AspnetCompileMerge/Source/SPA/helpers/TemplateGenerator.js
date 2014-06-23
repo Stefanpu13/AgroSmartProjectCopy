@@ -1,0 +1,7 @@
+﻿var templateGenerator = (function () {
+
+
+    return {
+
+    }
+})();

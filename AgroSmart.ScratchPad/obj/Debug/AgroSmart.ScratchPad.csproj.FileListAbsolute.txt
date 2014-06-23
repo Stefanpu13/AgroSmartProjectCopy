@@ -1,0 +1,18 @@
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.ScratchPad\bin\AgroSmart.ScratchPad.dll.config
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.ScratchPad\bin\AgroSmart.ScratchPad.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.ScratchPad\bin\AgroSmart.ScratchPad.pdb
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.ScratchPad\obj\Debug\AgroSmart.ScratchPad.csprojResolveAssemblyReference.cache
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.ScratchPad\obj\Debug\AgroSmart.ScratchPad.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmart\agro-smart\AgroSmart.ScratchPad\obj\Debug\AgroSmart.ScratchPad.pdb
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.ScratchPad\bin\AgroSmart.ScratchPad.dll.config
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.ScratchPad\bin\AgroSmart.ScratchPad.dll
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.ScratchPad\bin\AgroSmart.ScratchPad.pdb
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.ScratchPad\obj\Debug\AgroSmart.ScratchPad.dll
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.ScratchPad\obj\Debug\AgroSmart.ScratchPad.pdb
+E:\Projects\AGRO Smart Design\Repository\master\AgroSmart.ScratchPad\obj\Debug\AgroSmart.ScratchPad.csprojResolveAssemblyReference.cache
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.ScratchPad\bin\AgroSmart.ScratchPad.dll
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.ScratchPad\bin\AgroSmart.ScratchPad.pdb
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.ScratchPad\obj\Debug\AgroSmart.ScratchPad.csprojResolveAssemblyReference.cache
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.ScratchPad\obj\Debug\AgroSmart.ScratchPad.dll
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.ScratchPad\obj\Debug\AgroSmart.ScratchPad.pdb
+D:\Programming\Work\Projects\Agro Smart\AgroSmart.ScratchPad\bin\AgroSmart.ScratchPad.dll.config

@@ -1,0 +1,133 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Agro Smart</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- styles and css libraries -->
+    <link href="../Content/bootstrap.css" rel="stylesheet" />
+    <link href="../Content/Site.css" rel="stylesheet" />
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+    <link href="styles/agro-smart.css" rel="stylesheet" />
+    <link href="styles/mapStyle.css" rel="stylesheet" />
+
+    <!--external libraries-->
+    <script type="text/javascript"
+            src="https://maps.googleapis.com/maps/api/js?v=3&sensor=false">
+    </script>
+    <script src="../Scripts/jquery-2.1.1.js"></script>
+    <script src="../Scripts/jquery-ui-1.10.4.js"></script>
+    <script src="../Scripts/bootstrap.js"></script>
+    <script src="../Scripts/jquery.signalR-2.0.3.js"></script>
+    <script src="../signalr/hubs"></script>
+    <!--constants and plugins-->
+    <script src="Consts.js"></script>
+    
+    <!--helpers-->
+    <script src="helpers/Menu.js"></script>
+    <script src="helpers/MapBuilder.js"></script>
+    <script src="helpers/MapManager.js"></script>
+    <script src="helpers/RequestHelper.js"></script>
+    <script src="helpers/TemplateGenerator.js"></script>
+
+    <!--persisters-->
+    <script src="persister/LoginPersister.js"></script>
+    <script src="persister/UnitPersister.js"></script>
+    <script src="persister/TaskPersister.js"></script>
+    <script src="persister/RegionPersister.js"></script>
+    <!--views-->
+    <script src="view/LoginView.js"></script>
+    <script src="view/MenuView.js"></script>
+    <script src="view/MapView.js"></script>
+    <script src="view/TaskView.js"></script>
+    <script src="view/UnitView.js"></script>
+    <script src="view/MobileView.js"></script>
+    <script src="view/ControlView.js"></script>
+    <!--controllers-->
+    <script src="controller/LoginController.js"></script>
+    <script src="controller/MenuController.js"></script>
+    <script src="controller/MapController.js"></script>
+    <script src="controller/UnitController.js"></script>
+    <script src="controller/TaskController.js"></script>
+    <script src="controller/MobileController.js"></script>
+    <script src="controller/ControlController.js"></script>
+
+    <script src="app.js"></script>
+</head>
+<body>
+    <header class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <h1><span class="navbar-brand">AGRO Smart</span></h1>
+
+            <div id="menu" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Начало</a></li>
+                    <li><a href="#about">За проекта</a></li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <div class="container body-content">
+        <div id="main-container"></div>
+        <hr />
+        <div id="disclamer-container">
+            <div id="disclaimer-pic">
+                <img src="images/AgroSmartInfo.jpg" alt="Info pic" width="100%" />
+            </div>
+            <div id="disclamer-info">
+                <p>
+                    Приложението AGRO Smart е създадено с финансовата подкрепа на Оперативна програма „Развитие на конкурентоспособността на българската икономика” 2007-2013, съфинансирана от Европейския съюз чрез „Европейски фонд за регионално развитие”. Цялата отговорност за съдържанието на приложението се носи от „Амексис” ООД и при никакви обстоятелства не може да се приема, че този документ отразява официалното становище на Европейския съюз и Договарящия орган.”
+                </p>
+            </div>
+        </div>
+        <footer>
+            <p>&copy; 2014 - AGRO Smart</p>
+        </footer>
+    </div>
+    <script>
+        AgroSmart.init('main-container');
+
+        //$(function () {
+        //    debugger;
+        //    // Declare a proxy to reference the hub. 
+        //    var locator = $.connection.geoLocatorHub;
+        //    // Create a function that the hub can call to broadcast messages.
+        //    locator.client.sendNewCoords = function (unitId, latitude, longitude) {
+        //        debugger;
+        //    };
+
+        //    $.connection.hub.start().done(function () {
+        //        //setInterval(function () {
+        //        //    debugger;
+        //        //    navigator.geolocation.getCurrentPosition(function (possition) {
+        //        //        debugger;
+        //        //        var lat = possition.coords.latitude;
+        //        //        var long = possition.coords.longitude;
+        //        //        locator.server.send(1, lat, long);
+        //        //    });
+        //        //    // Call the Send method on the hub. 
+        //        //}, consts.SEND_COORDS_INTERVAL);
+
+        //        $('#sendNewCoords').click(function () {
+        //            debugger;
+        //            navigator.geolocation.getCurrentPosition(function (possition) {
+        //                debugger;
+        //                var lat = possition.coords.latitude + 10;
+        //                var long = possition.coords.longitude;
+        //                locator.server.send(1, lat, long);
+        //            });
+        //            // Call the Send method on the hub. 
+        //        });
+        //    });
+        //});
+    </script>
+</body>
+</html>

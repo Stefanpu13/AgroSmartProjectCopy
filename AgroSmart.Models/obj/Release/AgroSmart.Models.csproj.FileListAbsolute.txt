@@ -1,0 +1,14 @@
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Models\bin\Release\AgroSmart.Models.dll.config
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Models\bin\Release\AgroSmart.Models.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Models\bin\Release\AgroSmart.Models.pdb
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Models\bin\Release\EntityFramework.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Models\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Models\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Models\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Models\bin\Release\EntityFramework.xml
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Models\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Models\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Models\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Models\obj\Release\AgroSmart.Models.csprojResolveAssemblyReference.cache
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Models\obj\Release\AgroSmart.Models.dll
+C:\Users\alexander.trifonov\Desktop\AgroSmartRep\agro-smart\AgroSmart.Models\obj\Release\AgroSmart.Models.pdb
